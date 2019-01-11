@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ridealto",
+      "sha256_cert_fingerprints": [
+        "2C:96:C4:1C:D6:AB:CC:28:A1:99:42:06:85:AC:77:8E:71:A4:E5:93:BF:F8:B3:30:C0:FB:AC:E5:87:EF:53:AC"
+      ]
+    }
+  }
+]
